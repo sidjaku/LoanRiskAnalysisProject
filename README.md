@@ -42,6 +42,7 @@ This repository contains a comprehensive analysis of loan risk factors in the ba
 After every SQL query, insights and interpretations are provided to facilitate a better understanding of the data and its implications.
 
 ## Data:
+- **`Source`**: https://www.kaggle.com/competitions/home-credit-default-risk/data?select=application_test.csv
 - **`application_data.csv`**: Contains client information at the time of loan application.
   - Total columns: 122
 
